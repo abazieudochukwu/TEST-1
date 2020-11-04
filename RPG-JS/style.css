@@ -1,0 +1,29 @@
+img{
+    width:130px;
+}
+body{
+    display:table;
+}
+.interface{
+    background-color:black;
+    display:table-cell;
+    vertical-align:center;
+    
+
+}
+
+.header{
+font-size:2em;
+color:#1e1e1e;
+position:fixed;
+top:0px;
+left:0;
+right:0;
+
+}
+
+.interface a{
+text-decoration:none;
+color:#fff;
+
+}
